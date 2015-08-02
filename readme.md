@@ -6,7 +6,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-## The code for Chuck Heintzelman's Blog l5beauty
+## The code for Chuck Heintzelman's Blog l5beauty Application
 
 
 
