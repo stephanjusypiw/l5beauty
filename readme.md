@@ -8,6 +8,8 @@
 
 ## The code for Chuck Heintzelman's Blog l5beauty Application
 
+Thanks Chuck!
+
 
 
 ### License
