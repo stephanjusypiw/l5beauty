@@ -78,7 +78,8 @@ Route::group([
     // assign routes for PostController, TagController and UploadController
     // the routes use the Admin namespace and auth middleware
     Route::resource('admin/post', 'PostController');
-    Route::resource('admin/tag', 'TagController');
+    // tells the router to set up all the resource routes except for the show route.
+    Route::resource('admin/tag', 'TagController', ['except' => 'show']);
     Route::get('admin/upload', 'UploadController@index');
 });
 
